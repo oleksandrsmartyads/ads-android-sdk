@@ -1,4 +1,4 @@
-# Android SDK for in-app advertising with SmartyAds Supply Side Platform
+# Android SDK for in-app advertising with SmartyAds Supply Side Platform 123
 
 > This is a free Software Development Kit for the Android application developers and publishers that works with [SmartyAds SSP](http://ssp.smartyads.com/login)
 
