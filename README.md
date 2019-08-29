@@ -13,7 +13,7 @@
 
 728x90 IAB Leaderboard(for Tablets)
 
-Interstitial
+Interstitiall
 
 Video(Skippable/Vertical/Horizontal)
 
