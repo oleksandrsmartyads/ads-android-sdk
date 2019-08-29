@@ -9,7 +9,7 @@
 
 300x250 IAB Medium Rectangle
 
-468x60 IAB Full-Size Banner(for Tablets)
+468x60 IAB Full-Size Banner(Tablets)
 
 728x90 IAB Leaderboard(for Tablets)
 
